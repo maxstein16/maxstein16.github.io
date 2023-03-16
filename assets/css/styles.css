@@ -399,8 +399,6 @@ img {
 .about_img{
   width: 200px;
   border-radius: .5rem;
-  justify-self: center;
-  align-self: center;
 }
 
 .about_description{
@@ -1223,9 +1221,6 @@ img {
   }
   .swiper-button-next{
     right: -3.5rem;
-  }
-  .swiper-container-horizontal > .swiper-pagination-bullets{
-    bottom: -4.5rem;
   }
 
   .contact_form{
